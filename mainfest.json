@@ -1,0 +1,17 @@
+{
+    "name": "Przewodnik po Londynie",
+    "short_name": "LondonAPP",
+    "theme_color": "#5f9ea0",
+    "background_color": "#5f9ea0",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/WZ-INIS4-PR-PWA/",
+    "icons": [
+        {
+            "src": "./img/pwalogo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
